@@ -37,9 +37,6 @@ This is a simple Java-based chatting application that enables real-time communic
 3. Messages are exchanged between the server and client through data streams.
 4. Messages appear in the GUI in a formatted chat box.
 
-## Screenshots
-*(You can add screenshots of the application here to make it more appealing)*
-
 ## Future Enhancements
 - Support for multiple clients.
 - Emoji and media sharing support.
